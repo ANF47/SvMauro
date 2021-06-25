@@ -7,11 +7,19 @@
   text-align: left;
 }
 
+.navbar-brand{
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  width: auto;
+}
 #nav{
   display: block;
   padding: auto;
   margin: auto;
-}
+  overflow: hidden
+};
+  
 
 li a {
   display: inline-block;
